@@ -115,9 +115,17 @@ Password :
 ```bash
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```
-## Bandit Level 7 → Level 8
+## Bandit Level 12 → Level 13
 
 
+
+<img width="900" alt="Screenshot 2023-12-14 212747" src="https://github.com/harshiitan/over-the-wire-bandit/assets/153768984/569c9be3-d3bb-4631-8f8f-8a10525651e0">
+
+***
+Password :
+```bash
+wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+```
 
 
 
